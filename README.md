@@ -29,7 +29,7 @@ During development, I practiced:
 
 # 🌐 Live Demo
 
-Coming Soon...
+https://nextjs-task-tracker-qvog.vercel.app/
 
 ---
 
