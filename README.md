@@ -37,15 +37,15 @@ Coming Soon...
 
 ## Home Page
 
-![Home Page](./assets/Home.png)
+![Home Page](./task-tracker/assets/Home.png)
 
 ## Creating a Task
 
-![Task Added Page](./assets/TaskAdded.png)
+![Task Added Page](./task-tracker/assets/TaskAdded.png)
 
 ## Completed Task
 
-![Completed Task](./assets/Completed.png)
+![Completed Task](./task-tracker/assets/Completed.png)
 
 ---
 
