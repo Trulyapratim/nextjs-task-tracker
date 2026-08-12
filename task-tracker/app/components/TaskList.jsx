@@ -1,3 +1,5 @@
+"use client";
+
 import TaskCard from "./TaskCard";
 
 export default function TaskList({ tasks, setTasks }) {

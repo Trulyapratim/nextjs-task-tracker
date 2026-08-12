@@ -7,7 +7,6 @@ import Header from "./components/Header";
 import TaskStats from "./components/TaskStats";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
-import TaskCard from "./components/TaskCard";
 
 export default function Home() {
 

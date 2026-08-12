@@ -3,13 +3,11 @@
 import { useState } from "react";
 
 export default function TaskForm({ tasks, setTasks }) {
-
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
   const [priority, setPriority] = useState("");
 
   function handleSubmit(e) {
-
     e.preventDefault();
 
     const newTask = {
@@ -20,8 +18,7 @@ export default function TaskForm({ tasks, setTasks }) {
       completed: false,
     };
 
-    setTasks([...tasks, newTask]);
-
+    setTasks((prevTasks) => [...prevTasks, newTask]);
     setTitle("");
     setDescription("");
     setPriority("");
